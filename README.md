@@ -4,10 +4,11 @@ Instructions to Run:
 
 1. git clone repo
 2. cd into [ProjectDirecotory i.e Directory that contains server.js]
-3. To Run App : ** This repo is run before Siva Test ReactJS FrontEnd **. ====> npm start
-4. To Get Express Version : npm view express version
-5. To Get MongoDB Version : npm view mongoDb version
-6. To Get Node JS Version on Dev Environment : node --version [get currebt node running on system]
+3. To Install Npm Packages : ** This repo is run before Siva Test ReactJS FrontEnd **. ====> npm install
+4. To Run App : ** This repo is run before Siva Test ReactJS FrontEnd **. ====> npm start
+5. To Get Express Version : npm view express version
+6. To Get MongoDB Version : npm view mongoDb version
+7. To Get Node JS Version on Dev Environment : node --version [get currebt node running on system]
 
 ## NPM Dev Environment Configuration for reference
 
