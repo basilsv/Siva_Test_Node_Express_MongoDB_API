@@ -25,20 +25,21 @@ Below is the API Results Page that is available on  http://localhost:5000/listin
 
 API Results Page         |  Config Env File
 :-------------------------:|:-------------------------:
-![](https://github.com/basilsv/Siva_Test_Node_Express_MongoDB_API/blob/main/images/Listings_Displayed_As_JSON.png)  |  ![](https://github.com/basilsv/Siva_Test_Node_Express_MongoDB_API/blob/main/images/Imports_for_router.png)
+![](https://github.com/basilsv/Siva_Test_Node_Express_MongoDB_API/blob/main/images/Listings_Displayed_As_JSON.png)  |  ![](https://github.com/basilsv/Siva_Test_Node_Express_MongoDB_API/blob/main/images/Config_env_database_uri_store.png)
 
-
+Below is the Router Imports and Code to Call All listings endpoint 
 
 Router Imports         |  Router Code for All Listings
 :-------------------------:|:-------------------------:
 ![](https://github.com/basilsv/Siva_Test_Node_Express_MongoDB_API/blob/main/images/Imports_for_router.png)  |  ![](https://github.com/basilsv/Siva_Test_Node_Express_MongoDB_API/blob/main/images/Router_for_All_Listings.png)
 
-
+Below is the Router Code for Add Patient and Delete Patient Functionality
 
 Router Code For Add Patient         |  Router Code for Delete Patient
 :-------------------------:|:-------------------------:
 ![](https://github.com/basilsv/Siva_Test_Node_Express_MongoDB_API/blob/main/images/Router_for_Add_Patient.png)  |  ![](https://github.com/basilsv/Siva_Test_Node_Express_MongoDB_API/blob/main/images/Router_for_Delete_Patient.png)
 
+Below is DB Connection To Test Database Imports and Connection to DB Code.
 
 DB Connection JS File Imports         |  DB Connection Code
 :-------------------------:|:-------------------------:
